@@ -1,0 +1,17 @@
+C:\Users\sstep\OneDrive\Рабочий стол\transportschedule-lab2\MoscowTransport.WebService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sstep\OneDrive\Рабочий стол\transportschedule-lab2\MoscowTransport.WebService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sstep\OneDrive\Рабочий стол\transportschedule-lab2\MoscowTransport.WebService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sstep\OneDrive\Рабочий стол\transportschedule-lab2\MoscowTransport.WebService\bin\Debug\netcoreapp3.1\MoscowTransport.WebService.exe
+C:\Users\sstep\OneDrive\Рабочий стол\transportschedule-lab2\MoscowTransport.WebService\bin\Debug\netcoreapp3.1\MoscowTransport.WebService.deps.json
+C:\Users\sstep\OneDrive\Рабочий стол\transportschedule-lab2\MoscowTransport.WebService\bin\Debug\netcoreapp3.1\MoscowTransport.WebService.runtimeconfig.json
+C:\Users\sstep\OneDrive\Рабочий стол\transportschedule-lab2\MoscowTransport.WebService\bin\Debug\netcoreapp3.1\MoscowTransport.WebService.runtimeconfig.dev.json
+C:\Users\sstep\OneDrive\Рабочий стол\transportschedule-lab2\MoscowTransport.WebService\bin\Debug\netcoreapp3.1\MoscowTransport.WebService.dll
+C:\Users\sstep\OneDrive\Рабочий стол\transportschedule-lab2\MoscowTransport.WebService\bin\Debug\netcoreapp3.1\MoscowTransport.WebService.pdb
+C:\Users\sstep\OneDrive\Рабочий стол\transportschedule-lab2\MoscowTransport.WebService\obj\Debug\netcoreapp3.1\staticwebassets\MoscowTransport.WebService.StaticWebAssets.Manifest.cache
+C:\Users\sstep\OneDrive\Рабочий стол\transportschedule-lab2\MoscowTransport.WebService\obj\Debug\netcoreapp3.1\staticwebassets\MoscowTransport.WebService.StaticWebAssets.xml
+C:\Users\sstep\OneDrive\Рабочий стол\transportschedule-lab2\MoscowTransport.WebService\obj\Debug\netcoreapp3.1\MoscowTransport.WebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sstep\OneDrive\Рабочий стол\transportschedule-lab2\MoscowTransport.WebService\obj\Debug\netcoreapp3.1\MoscowTransport.WebService.AssemblyInfoInputs.cache
+C:\Users\sstep\OneDrive\Рабочий стол\transportschedule-lab2\MoscowTransport.WebService\obj\Debug\netcoreapp3.1\MoscowTransport.WebService.AssemblyInfo.cs
+C:\Users\sstep\OneDrive\Рабочий стол\transportschedule-lab2\MoscowTransport.WebService\obj\Debug\netcoreapp3.1\MoscowTransport.WebService.RazorTargetAssemblyInfo.cache
+C:\Users\sstep\OneDrive\Рабочий стол\transportschedule-lab2\MoscowTransport.WebService\obj\Debug\netcoreapp3.1\MoscowTransport.WebService.dll
+C:\Users\sstep\OneDrive\Рабочий стол\transportschedule-lab2\MoscowTransport.WebService\obj\Debug\netcoreapp3.1\MoscowTransport.WebService.pdb
